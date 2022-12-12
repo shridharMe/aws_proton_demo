@@ -6,22 +6,42 @@ To manage this resource, see AWS Proton Resource: arn:aws:proton:eu-west-2:75369
 If the resource is no longer accessible within AWS Proton, it may have been deleted and may require manual cleanup.
 */
 
-output "vpc_id" {
-  value       = module.vpc.vpc_id
-  description = "The VPC id"
+output "SnsTopicArn" {
+  value = aws_sns_topic.ping_topic.arn
 }
 
-output "vpc_cidr_block" {
-  value       = local.local_data.environment.inputs.vpc_cidr
-  description = "The VPC id"
+output "SnsTopicName" {
+  value = aws_sns_topic.ping_topic.name
 }
 
-output "vpc_security_group_id" {
-  description = "The ID of the security group created by default on VPC creation"
-  value       = module.vpc.default_security_group_id
+output "SnsRegion" {
+  value = local.region
 }
 
-output "aws_region" {
-  description = "The VPC aws region"
-  value       = local.local_data.environment.inputs.aws_region
+output "VpcId" {
+  value = module.vpc.vpc_id
+}
+
+output "PublicSubnetOneId" {
+  value = module.vpc.public_subnets[0]
+}
+
+output "PublicSubnetTwoId" {
+  value = module.vpc.public_subnets[1]
+}
+
+output "PrivateSubnetOneId" {
+  value = module.vpc.private_subnets[0]
+}
+
+output "PrivateSubnetTwoId" {
+  value = module.vpc.private_subnets[1]
+}
+
+output "VpcDefaultSecurityGroupId" {
+  value = module.vpc.default_security_group_id
+}
+
+output "VpcConnectorArn" {
+  value = aws_apprunner_vpc_connector.connector.id
 }
