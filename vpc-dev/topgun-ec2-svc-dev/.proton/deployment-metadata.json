@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "66c7cea7-c7fa-44d3-9674-f6e719863c1f",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:eu-west-2:753690273280:service/topgun/service-instance/ec2-svc-dev",
+    "templateArn" : "arn:aws:proton:eu-west-2:753690273280:service-template/myec2",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:eu-west-2:753690273280:environment/vpc-dev"
+  }
+}
