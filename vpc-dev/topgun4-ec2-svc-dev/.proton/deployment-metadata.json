@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "0a2a9576-b33a-417e-8337-26bafa92209e",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:eu-west-2:753690273280:service/topgun4/service-instance/ec2-svc-dev",
     "templateArn" : "arn:aws:proton:eu-west-2:753690273280:service-template/myec2",
