@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "0ebc3cc4-7d64-4621-b31e-daf80f59f301",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:eu-west-2:753690273280:environment/vpc-backstage",
     "templateArn" : "arn:aws:proton:eu-west-2:753690273280:environment-template/vpc",
