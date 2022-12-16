@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "f16f9b17-6e54-41f3-809e-54b4eb02b087",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:eu-west-2:753690273280:service/topgun/service-instance/ec2",
+    "templateArn" : "arn:aws:proton:eu-west-2:753690273280:service-template/myec2",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "2",
+    "environmentArn" : "arn:aws:proton:eu-west-2:753690273280:environment/vpc-backstage"
+  }
+}
