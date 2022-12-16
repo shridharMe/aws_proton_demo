@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "a9f9e127-8961-440b-b1ec-396cdd9ffc09",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:eu-west-2:753690273280:environment/vpc-metro",
+    "templateArn" : "arn:aws:proton:eu-west-2:753690273280:environment-template/vpc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
