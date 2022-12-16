@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "965c6213-2539-4f54-82cc-ce250cc87508",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:eu-west-2:753690273280:service/ec2/service-instance/backstage",
+    "templateArn" : "arn:aws:proton:eu-west-2:753690273280:service-template/myec2",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:eu-west-2:753690273280:environment/vpc-backstage"
+  }
+}
