@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "540beea8-897f-40fe-b1d1-c25d45415318",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:eu-west-2:753690273280:service/topcupcake/service-instance/backstage",
     "templateArn" : "arn:aws:proton:eu-west-2:753690273280:service-template/myec2",
