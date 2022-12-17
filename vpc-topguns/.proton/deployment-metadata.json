@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "5a30ac71-0149-47e3-b422-c52f6a49ec9d",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:eu-west-2:753690273280:environment/vpc-topguns",
     "templateArn" : "arn:aws:proton:eu-west-2:753690273280:environment-template/vpc",
