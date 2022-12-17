@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "afa220de-05f9-4937-87a7-e338a2c85c40",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:eu-west-2:753690273280:environment/vpc-topguns",
+    "templateArn" : "arn:aws:proton:eu-west-2:753690273280:environment-template/vpc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
