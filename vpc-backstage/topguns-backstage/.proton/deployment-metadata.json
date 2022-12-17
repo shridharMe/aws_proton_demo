@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "59b513c6-c381-486a-a2d4-04baa75b042e",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:eu-west-2:753690273280:service/topguns/service-instance/backstage",
     "templateArn" : "arn:aws:proton:eu-west-2:753690273280:service-template/myec2",
