@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "ccdc6651-d2e4-4f4c-86d1-651cc844b29a",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:eu-west-2:753690273280:environment/vpc-argentina",
     "templateArn" : "arn:aws:proton:eu-west-2:753690273280:environment-template/vpc",
