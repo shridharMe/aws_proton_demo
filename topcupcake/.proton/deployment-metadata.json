@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "ffbedfb0-44e4-4098-b4c7-33ff81db8dd1",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:eu-west-2:753690273280:environment/topcupcake",
     "templateArn" : "arn:aws:proton:eu-west-2:753690273280:environment-template/vpc",
