@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "4730a023-350a-4829-8938-3b9718bd308f",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:eu-west-2:753690273280:service/ec2-wine/service-instance/backstage",
+    "templateArn" : "arn:aws:proton:eu-west-2:753690273280:service-template/myec2",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "2",
+    "environmentArn" : "arn:aws:proton:eu-west-2:753690273280:environment/topcupcake"
+  }
+}
