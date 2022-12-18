@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "6e0bd58d-3838-484b-a46a-42f0620d3f87",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:eu-west-2:753690273280:service/football-ec2/service-instance/ec2-backstage",
+    "templateArn" : "arn:aws:proton:eu-west-2:753690273280:service-template/myec2",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "2",
+    "environmentArn" : "arn:aws:proton:eu-west-2:753690273280:environment/vpc-argentina"
+  }
+}
