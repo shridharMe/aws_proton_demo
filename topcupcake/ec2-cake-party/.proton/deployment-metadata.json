@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "f83844c8-e5be-42ed-b999-ddf0df3e68f8",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:eu-west-2:753690273280:service/ec2-cake/service-instance/party",
     "templateArn" : "arn:aws:proton:eu-west-2:753690273280:service-template/myec2",
