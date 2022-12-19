@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "061830bb-25bd-4dc1-9eed-b1cedd00ed42",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:eu-west-2:753690273280:environment/voc-aestro",
+    "templateArn" : "arn:aws:proton:eu-west-2:753690273280:environment-template/vpc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
