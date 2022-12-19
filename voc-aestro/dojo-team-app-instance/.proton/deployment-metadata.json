@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "1e298dcc-9e2b-4c8d-a447-8ec053818066",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:eu-west-2:753690273280:service/dojo-team-app/service-instance/instance",
     "templateArn" : "arn:aws:proton:eu-west-2:753690273280:service-template/myec2",
