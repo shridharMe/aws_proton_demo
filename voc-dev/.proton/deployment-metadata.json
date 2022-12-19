@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "4b749b8b-036b-402b-b394-a5ba78bd7c81",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:eu-west-2:753690273280:environment/voc-dev",
+    "templateArn" : "arn:aws:proton:eu-west-2:753690273280:environment-template/vpc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
